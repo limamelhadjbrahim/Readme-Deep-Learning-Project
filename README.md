@@ -114,8 +114,6 @@ trainer.push_to_hub("emotion-classifier-dair")
 
 You can test the deployed model here:
 
- **Hugging Face Space Demo:**
-*Emotion Text Classifier - Space by Limamhb*
 https://huggingface.co/spaces/Limamhb/Emotion_text_classifier
 
 ---
