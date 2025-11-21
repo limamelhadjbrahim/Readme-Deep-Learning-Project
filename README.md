@@ -55,7 +55,7 @@ python train.py
 Or open the Colab version:
 
  **Colab Notebook:**
-[https://colab.research.google.com/drive/1MuR6pqptqGWTckL0z3Dxk-ODHqBS7jyb?usp=sharing](https://colab.research.google.com/drive/1MuR6pqptqGWTckL0z3Dxk-ODHqBS7jyb?usp=sharing)
+https://colab.research.google.com/drive/1GbtUDJaVr_7-oZltad2h48-ojBZxswnV?usp=sharing
 
 ---
 
