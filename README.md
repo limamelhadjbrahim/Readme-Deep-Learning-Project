@@ -94,9 +94,10 @@ print(pipe("I love this!"))
 
 ## ☁️ Push to Hugging Face Hub
 
-Use your HF token:
+Use the token in the notebook :
 
 ```python
+# Token : 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
 from huggingface_hub import login
 login()
 ```
