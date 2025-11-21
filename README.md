@@ -134,8 +134,4 @@ Model and dataset follow their original licenses on Hugging Face.
 ---
 
 
-Si tu veux, je peux aussi te générer :
-✅ un `train.py` propre
-✅ un `inference.py`
-✅ une structure de repo complète
-Souhaites-tu que je te génère les fichiers Python aussi ?
+
