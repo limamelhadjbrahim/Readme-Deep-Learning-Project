@@ -1,7 +1,7 @@
 # Readme-Deep-Learning-Project
 
 ````markdown
-# Emotion Text Classifier – Fine-tuning with Hugging Face 
+# Emotion Text Classifier – Fine-tuning
 
 This project demonstrates how to fine-tune a transformer model for **emotion classification** using the **dair-ai/emotion** dataset.  
 The training is performed using the Hugging Face `Trainer` API, with evaluation metrics (accuracy + F1 macro) and deployment via Hugging Face Hub.
