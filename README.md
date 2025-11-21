@@ -97,7 +97,7 @@ print(pipe("I love this!"))
 Use the token in the notebook :
 
 ```python
-# Token : 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
+
 from huggingface_hub import login
 login()
 ```
