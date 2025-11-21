@@ -3,14 +3,14 @@
 ````markdown
 # Emotion Text Classifier – Fine-tuning
 
-This project demonstrates how to fine-tune a transformer model for **emotion classification** using the **dair-ai/emotion** dataset.  
+This project demonstrates how to fine-tune a transformer model for emotion classification using the dair-ai/emotion dataset.  
 The training is performed using the Hugging Face `Trainer` API, with evaluation metrics (accuracy + F1 macro) and deployment via Hugging Face Hub.
 
 ---
 
 ## Features
 
-- Uses the **dair-ai/emotion** dataset (train/validation/test)
+- Uses the dair-ai/emotion dataset (train/validation/test)
 - Fine-tunes the pretrained model: `michellejieli/emotion_text_classifier`
 - Uses `Trainer` with:
   - Accuracy and Macro-F1 evaluation
@@ -23,7 +23,7 @@ The training is performed using the Hugging Face `Trainer` API, with evaluation 
 
 ## Dataset
 
-Dataset: **dair-ai/emotion**  
+Dataset: dair-ai/emotion  
 Labels:
 - 0: sadness  
 - 1: joy  
@@ -115,19 +115,15 @@ You can test the deployed model here:
 
  **Hugging Face Space Demo:**
 *Emotion Text Classifier - Space by Limamhb*
+https://huggingface.co/spaces/Limamhb/Emotion_text_classifier
 
 ---
 
-## Requirements
 
-See `requirements.txt` in this repository.
 
 ---
 
-## License
 
-This project is for educational use.
-Model and dataset follow their original licenses on Hugging Face.
 
 ````
 
