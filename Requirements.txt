@@ -1,0 +1,13 @@
+Requirements
+
+```txt
+transformers
+datasets
+evaluate
+accelerate
+sentencepiece
+gradio
+torch
+huggingface_hub
+numpy
+````
