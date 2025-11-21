@@ -92,7 +92,7 @@ print(pipe("I love this!"))
 
 ---
 
-## ☁️ Push to Hugging Face Hub
+## Push to Hugging Face Hub
 
 Use the token in the notebook :
 
